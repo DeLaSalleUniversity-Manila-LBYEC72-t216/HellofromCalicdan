@@ -42,7 +42,7 @@ int main ()
 }
 ```
 
-![](act1a.png)
+![](ac1a.png)
 
 ```
 #include <stdio.h>
