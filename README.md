@@ -8,16 +8,17 @@ Hello world repository
 
 int main ()
 {
-	puts ("@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
-	puts (" Camille Allysa L. Calicdan");
-	puts ("           BS CIV");
-	puts ("          11234567");
-	puts ("         May 24, 2016");
-	puts ("     allysa@delasalle.com");
-	puts ("         09123456789");
-	puts ("@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
-	return 0;
+    puts("\n\n\t@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n");
+    puts("\n\t   Camille Allysa L. Calicdan");
+    puts("\n\t             BS CIV");
+    puts("\n\t            11234567");
+    puts("\n\t          May 24, 2016");
+    puts("\n\t      allysa@delasalle.com");  
+    puts("\n\t          09123456789\n");     
+    puts("\n\t@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n");
+    return 0;
 }
+
 ```
 
 ![](Untitled.png)
