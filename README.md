@@ -22,3 +22,58 @@ int main ()
 ```
 
 ![](Untitled.png)
+
+```
+#include <stdio.h>
+#include <math.h>
+
+int main ()
+{
+	float b, h, area;
+	printf ("Enter the base of the triangle: \n");
+	scanf ("%f", &b);
+       printf ("Enter the height of the triangle: \n");
+	scanf ("%f", &h);
+
+	area = 0.5*b*h;
+	printf ("Area of triangle is: %2f.\n", area);
+	
+	return 0;
+}
+```
+
+![]()
+
+```
+#include <stdio.h>
+
+int main ()
+{
+	int a, age;
+	puts ("Enter birth year:");
+	scanf ("%d", &a);
+	
+	age = (2016-a);
+	printf ("Your age is: %d \n", age);
+	
+	return 0;
+}
+```
+![]()
+
+```
+#include <stdio.h>
+
+int main ()
+{
+	int x, y;
+	puts ("Enter value of x:");
+	scanf ("%d", &x);
+	
+	y=x/70;
+	printf ("F(x) =  %d \n", y);
+	
+	return 0;
+}
+```
+![]()
