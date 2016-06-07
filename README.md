@@ -21,7 +21,7 @@ int main ()
 
 ```
 
-![](Untitled.png)
+![](act1.png)
 
 ```
 #include <stdio.h>
@@ -42,7 +42,7 @@ int main ()
 }
 ```
 
-![]()
+![](act1a.png)
 
 ```
 #include <stdio.h>
@@ -59,7 +59,7 @@ int main ()
 	return 0;
 }
 ```
-![]()
+![](act1b.png)
 
 ```
 #include <stdio.h>
@@ -76,4 +76,4 @@ int main ()
 	return 0;
 }
 ```
-![]()
+![](act1c.png)
